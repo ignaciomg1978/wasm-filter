@@ -1,2 +1,2 @@
 # wasm-filter
-Módulo wasm escrito en Rust, que no utilice proxy-wasm
+Módulo wasm escrito en Rust, que utiliza proxy-wasm
